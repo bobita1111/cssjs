@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/> DUNG CO COPY NHEN: <a href='http://www.tranchitinh.com/'>Tình Trần"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/> Đừng COPY Nhen -Kỳ quá ah!^@@^: <a href='http://www.tranchitinh.com/'>Tình Trần"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';

@@ -1,4 +1,4 @@
-	var url_popup = 'http://bit.ly/1MBrC3c';
+	var url_popup = 'http://bit.ly/28XYJnX';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1YrjhZJ';
@@ -34,6 +34,6 @@
       });  
       //]]>
 	/*
-	var url_popup = 'http://aee.edu.vn/';
+	var url_popup = 'http://daotaolienthong.edu.vn/';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/

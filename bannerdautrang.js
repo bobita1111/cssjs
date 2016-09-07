@@ -116,7 +116,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://e-learningvn.net/khoa-hoc-dao-tao-seo-chuyen-sau-tai-tp-ho-chi-minh/' target='_blank'><img src='http://3.bp.blogspot.com/-HvdC3Tg7nus/VlPMZ7ICU8I/AAAAAAAABIs/BLJ_OGt1ixs/s1600-r/banner%2Btuyen%2Bsinh430x300.jpg' width='500px'/>Thông tin tuyển sinh Đại học 2016</a>. Đầu vào DỄ - nhận bằng NHANH. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://e-learningvn.net/khoa-hoc-dao-tao-seo-chuyen-sau-tai-tp-ho-chi-minh/' target='_blank'><img src='http://e-learningvn.net/wp-content/uploads/2016/03/dao-tao-seo-chuyen-sau.jpg' width='500px'/>Đào tạo SEO Chuyên sâu</a>. Cầm tay chỉ việc - lên TOP bền vững. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });

@@ -1,4 +1,4 @@
-var url_popup = 'http://bit.ly/2hXnIOq';
+var url_popup = 'https://goo.gl/QdsAuN';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/2hXnIOq';
@@ -34,6 +34,6 @@ var url_popup = 'http://bit.ly/2hXnIOq';
       });  
       //]]>
 	/*
-	var url_popup = 'http://bit.ly/2hXnIOq';
+	var url_popup = 'https://goo.gl/QdsAuN';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/
